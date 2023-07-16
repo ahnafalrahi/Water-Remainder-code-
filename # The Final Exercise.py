@@ -1,4 +1,4 @@
-#notification in python
+#notification in python(water remainder)
 # The Final Exercise
 
 import time
