@@ -1,4 +1,4 @@
-#water reaminder notification
+#notification in python
 # The Final Exercise
 
 import time
